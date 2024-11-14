@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Драйверы
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Кэшированные файлы
+*.log
+*.pot
+*.pyc
+
+# Файлы IDE и редакторов
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Другие временные файлы
+*.tmp
+*.temp
+
+# Файлы конфигурации среды
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Игнорирование файлов, специфичных для системы контроля версий (например, Git)
+.git/
